@@ -13,8 +13,7 @@ I'm **Hasin Ullah**, a DevOps Engineer passionate about automation, cloud platfo
 - 👯 Looking to collaborate on **DevOps Projects**
 - 🤝 Open to help with **Linux, Docker, Git, CICD**
 - 💬 Ask me about **DevOps, Docker, Kubernetes, Linux Administration**
-- 📫 Reach me at: [hassanullah9523@gmail.com](mailto:hassanullah9523@gmail.com) | +92-3408118952
-
+- 📫 Reach me at: [tawabullah46@gmail.com]
 ---
 
 ![Profile Image](https://github.com/your-username/your-repo-name/raw/main/profile.png)
@@ -25,4 +24,5 @@ I'm **Hasin Ullah**, a DevOps Engineer passionate about automation, cloud platfo
 ![Linux](https://img.shields.io/badge/Linux-FF5733?style=flat-square&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 
